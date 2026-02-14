@@ -19,13 +19,7 @@ The aim of this repo is to provide a **clean, organized, and practical** referen
 
 ---
 
-## 🧪 Topics Covered
-
-### ✅ Python Foundations
-- Variables, loops, functions  
-- File handling  
-- OOP and modules  
-- Error handling  
+## 🧪 Topics Covered 
 
 ### 📊 Data Science Essentials
 - Pandas (cleaning, merging, grouping)  
